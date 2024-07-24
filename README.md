@@ -1,4 +1,4 @@
-                        ![SRC](https://github.com/user-attachments/assets/1a1fd5ab-7532-4858-b48a-7b581f5c6629)
+
 # Server Resources Calculator
 
 A tool for calculating the required server resources based on the game version, number of players, and plugins. Designed to help server administrators and game developers determine the optimal hardware specifications for their server setups.
