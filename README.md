@@ -35,5 +35,5 @@ For questions or support, please contact me at [maksimkirillov2522@gmail.com](ma
 
 ---
 
-**Version 1.0**  
+**Version 1.1**  
 *Made by PlugMan*
