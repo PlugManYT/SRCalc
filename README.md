@@ -11,7 +11,7 @@ A tool for calculating the required server resources based on the game version, 
 - **Light/Dark Mode Toggle:** Switch between light and dark themes for comfortable use in various lighting conditions.
 - **Donation Support:** Easily contribute to the development through the built-in "Donate" button.
 
-## [Download program](https://github.com/PlugManYT/SRCalc/blob/main/SRC_Setup.exe)
+## [Download program](https://github.com/PlugManYT/SRCalc/releases/latest)
 
 ## Usage
 
